@@ -2,7 +2,7 @@
 
 These scripts are to migrate a list of switches and endpoints into ISE enable mode. 
 
-The terminology used here is "Learn Mode" and "Enforcement Mode"
+The terminology used here is "Learn Mode" and "Enforcement Mode."
 
 The switch migration moves each switch in the provided template file into the desired network device group within ISE which will begin offering restricted access to endpoint that do not authenticate properly on said switch.
 
